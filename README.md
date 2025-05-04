@@ -38,3 +38,22 @@ A well-designed booking system is essential for:
 - Increasing user trust and conversion rates  
 - Enhancing overall customer satisfaction  
 - Supporting accessibility and usability on all devices
+
+### Color Styles
+- Primary: `#FF5A5F`  
+- Secondary: `#008489`  
+- Background: `#FFFFFF`  
+- Text: `#222222`  
+- Secondary Text: `#717171`
+
+### Typography
+- Primary Font: Circular, Medium (500), 16px
+- Headings: Circular, Bold (700), 24px-32px
+- Secondary Text: Circular, Book (400), 14px
+
+## Importance of Identifying Design Properties
+Identifying design properties from mockups helps:
+- Ensure a pixel-perfect implementation  
+- Maintain visual consistency and branding 
+- Speed up development by referencing design systems and style guides 
+- Facilitate collaboration between designers and developers  
