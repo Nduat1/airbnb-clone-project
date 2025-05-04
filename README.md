@@ -28,9 +28,12 @@ Design: Figma for mockup and UI planning
 - User authentication and personalized experience
 
 ### Primary Page Descriptions
-Property Listing View - Used for grid display of available properties with filters.
-Listing Detailed View - To contain complete property details with images and booking form.
-Simple Checkout View - To be used for streamlined payment and booking confirmation.
+| Page Name                 | Description                                          |
+|---------------------------|------------------------------------------------------|
+| **Property Listing View** | Grid display of available properties with filters    |
+| **Listing Detailed View** | Full property details with images and a booking form |
+| **Simple Checkout View**  | Streamlined  payment and booking confirmation        |
+
 
 ### Importance of User-Friendly Design
 A well-designed booking system is essential for: 
@@ -51,7 +54,7 @@ A well-designed booking system is essential for:
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
 
-## Importance of Identifying Design Properties
+### Importance of Identifying Design Properties
 Identifying design properties from mockups helps:
 - Ensure a pixel-perfect implementation  
 - Maintain visual consistency and branding 
@@ -60,14 +63,17 @@ Identifying design properties from mockups helps:
 
 
 ## Project Roles and Responsibilities
-- Project Manager: Oversee project timeline, coordinates team, manages deliverables
-- Frontend Developers: Implements UI components, ensures responsive design
-- Backend Developers:	Builds APIs, manages database, implements business logic
-- Designers: Creates mockups, maintains design systems, ensures UX quality
-- QA/Testers: Writes test cases, performs testing, reports bugs
-- DevOps Engineers: Manages deployment, CI/CD pipeline, server infrastructure
-- Product Owner: Defines requirements, prioritizes features, represents stakeholders
-- Scrum Master: Facilitates agile processes, removes blockers, organizes meetings
+| Role                   | Responsibilities                                                               |
+|------------------------|--------------------------------------------------------------------------------|
+| **Project Manager**    | Oversees project timeline, coordinates team, manages deliverables              |
+| **Frontend Developer** | Builds UI components, ensures responsive design and accessibility              |
+| **Backend Developer**  | Develops REST APIs, handles databases, and implements business logic           |
+| **Designer**           | Creates UI mockups, maintains design systems, ensures UX quality               |
+| **QA/Tester**          | Writes and executes test cases, reports bugs, ensures functionality            |
+| **DevOps Engineer**    | Manages CI/CD, server infrastructure, deployment processes                     |
+| **Product Owner**      | Defines product features, prioritizes tasks, represents end-user needs         |
+| **Scrum Master**       | Facilitates agile practices, removes blockers, manages team progress meetings  |
+
 
 
 ## UI Component Patterns
