@@ -57,3 +57,14 @@ Identifying design properties from mockups helps:
 - Maintain visual consistency and branding 
 - Speed up development by referencing design systems and style guides 
 - Facilitate collaboration between designers and developers  
+
+
+## Project Roles and Responsibilities
+- Project Manager: Oversee project timeline, coordinates team, manages deliverables
+- Frontend Developers: Implements UI components, ensures responsive design
+- Backend Developers:	Builds APIs, manages database, implements business logic
+- Designers: Creates mockups, maintains design systems, ensures UX quality
+- QA/Testers: Writes test cases, performs testing, reports bugs
+- DevOps Engineers: Manages deployment, CI/CD pipeline, server infrastructure
+- Product Owner: Defines requirements, prioritizes features, represents stakeholders
+- Scrum Master: Facilitates agile processes, removes blockers, organizes meetings
