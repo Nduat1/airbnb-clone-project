@@ -51,7 +51,7 @@ A well-designed booking system is essential for:
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
 
-## Importance of Identifying Design Properties
+### Importance of Identifying Design Properties
 Identifying design properties from mockups helps:
 - Ensure a pixel-perfect implementation  
 - Maintain visual consistency and branding 
